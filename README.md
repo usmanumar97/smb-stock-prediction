@@ -30,7 +30,7 @@ The dataset underwent several preprocessing steps:
 ## 📈 Results
 
 - **Visualization**: The plot below compares actual vs. predicted stock prices using the trained LSTM model. The LSTM was able to capture most of the significant trends:
-  ![Actual vs Predicted Prices](image_link_here)
+  ![Actual vs Predicted Prices]
 
 - **Performance Metric**: The model's mean squared error (MSE) was 0.89, showing an acceptable level of prediction accuracy.
 
@@ -39,11 +39,6 @@ The dataset underwent several preprocessing steps:
 - **EMA as a Feature**: Using EMA as a feature helped the LSTM model understand the stock trends better.
 - **Importance of Feature Engineering**: Transforming categorical trend columns into numerical values and creating rolling features significantly impacted the model's learning ability.
 
-## 📚 Next Steps
-
-- **Feature Engineering**: Add more sophisticated features like volume indicators or relative strength index (RSI).
-- **Model Improvement**: Try different neural network architectures or use ensemble learning to enhance predictions.
-- **Hyperparameter Tuning**: Perform a grid search for optimal hyperparameters for the LSTM.
 
 ## 🤖 Technologies Used
 
