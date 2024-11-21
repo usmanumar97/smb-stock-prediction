@@ -67,4 +67,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or feedback, please reach out to **Osman Umar** at **usmanumar92@gmail.com**.
 
 - **LinkedIn**: [Osman Janjua](https://www.linkedin.com/in/osman-janjua/)
-
